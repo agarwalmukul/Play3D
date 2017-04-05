@@ -83,7 +83,7 @@ boolean extrudeSketchComplete = false;
 
 
 void setup() {
-  size(1900, 1000, OPENGL);
+  size(1220, 700, OPENGL);
   background(255);
   textFont(createFont("dialog", 32));
   
